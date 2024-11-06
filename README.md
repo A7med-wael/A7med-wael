@@ -1,4 +1,5 @@
-<h1 align="center">Hi ![Hi](https://user-images.githubusercontent.com/your_image.gif), I'm Ahmed Wael</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ahmed Wael</h1>
+
 <h3 align="center">computer science student, Interested in cyber security especially Penetration testing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med-wael&label=Profile%20views&color=0e75b6&style=flat" alt="a7med-wael" /> </p>
