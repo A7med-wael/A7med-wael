@@ -2,6 +2,10 @@
 
 <h3 align="center">computer science student, Interested in cyber security especially Penetration testing.</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
+		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med-wael&label=Profile%20views&color=0e75b6&style=flat" alt="a7med-wael" /> </p>
 
 - 🔭 I’m currently working on **discover security vulnerabilities**
